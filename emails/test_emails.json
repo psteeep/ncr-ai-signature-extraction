@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "content": "Hi John,\n\nThanks for your help yesterday. Let's catch up next week.\n\nBest,\nAlice Smith\nSenior Product Manager\nAcme Corp\nalice.smith@acme.com\n+1 (555) 123-4567"
+  },
+  {
+    "id": 2,
+    "content": "Hello,\n\nPlease find the report attached.\n\nRegards,\n\nMichael Brown | CTO | TechNova\nmichael@technova.io\nTel: +44 20 7946 0958"
+  },
+  {
+    "id": 3,
+    "content": "Hey,\n\nMeeting rescheduled to 3 PM.\n\n--\nJane Doe\nFreelance UX Designer\njanedoe.design@gmail.com"
+  },
+  {
+    "id": 4,
+    "content": "Hi team,\n\nLooking forward to our project launch.\n\nCheers,\nTom"
+  },
+  {
+    "id": 5,
+    "content": "Hi,\n\nThanks.\n\n--\nDr. Rajiv Patel\nCardiologist, HealthFirst Clinic\nEmail: r.patel@healthfirst.org\nPhone: (212) 555-0198"
+  }
+]
