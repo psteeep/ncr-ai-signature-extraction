@@ -7,7 +7,8 @@ response = requests.post(
     f"{OLLAMA_HOST}/api/generate",
     json={
         "model": "mistral",
-        "prompt": "your prompt"
+        "prompt": "Hello, Ollama!",
+        "stream": False
     }
 )
 
